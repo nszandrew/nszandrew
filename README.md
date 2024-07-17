@@ -6,7 +6,7 @@ I'm a passionate Software Engineer in the making, focusing on back-end developme
 - 🌱 I’m currently learning **Spring Boot** and **New technologies**
 - 👨‍💻 I’m working on an eCommerce project with a some friends, I'm also working on personal projects ([look my repositories](https://github.com/nszandrew?tab=repositories)).
 - 💬 Ask me about **Java**, **Spring Boot**, **SQL**, and **Other things in the Java Universe**
-- 📫 How to reach me: [Your Email](nszandrew10@gmail.com)
+- 📫 How to reach me: [EMAIL](nszandrew10@gmail.com)
 
 ## 🛠️ Skills & Tools
 
