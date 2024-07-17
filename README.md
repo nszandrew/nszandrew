@@ -1,7 +1,5 @@
 # 👋 Hello, World! I'm Andrew
 
-![Header](https://yourimageurl.com/header-image.png)
-
 ## 🚀 About Me
 I'm a passionate Software Engineer in the making, focusing on back-end development with Java. With a solid foundation in Java and frameworks like Spring Boot, I'm on a journey to get my first job working with Java and building innovative solutions.
 
@@ -49,6 +47,3 @@ Description: All old and new projects.
 
 ## 🌟 Fun Fact
 I can't relax without making money, but I find peace when I start coding or also playing games.
-
-![Footer](https://yourimageurl.com/footer-image.png)
-
