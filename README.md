@@ -31,11 +31,14 @@ I'm a passionate Software Engineer in the making, focusing on back-end developme
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nszandrew)
 
 ## 💼 Projects
-### [SpringSecurity]([https://github.com/nszandrew/Spring-Security-Twitter-X])
-Description: Project with API endpoint security practices following the context of a Twitter(X).
+### [SpringSecurity]([https://github.com/nszandrew/ecommerce-backend])
+Description: A self-made eCommerce project, using many new things that I learned, and I'm still developing it.
 
 ### [Cars Prices]([https://github.com/nszandrew/TabelaFIPE_API]).
 Description: Project to query the Fipe Table of vehicles (cars, motorcycles, and trucks) via API. This project allows you to get information about vehicle prices based on data provided by the Fipe Table.
+
+### [nszAutoClicker](https://github.com/nszandrew/nszAutoClicker)
+Description: AutoClicker using a JNativeHook library
 
 ### [All My Projects]([https://github.com/nszandrew?tab=repositories]).
 Description: All old and new projects.
