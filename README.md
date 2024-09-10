@@ -1,12 +1,12 @@
 # 👋 Hello, World! I'm Andrew
 
 ## 🚀 About Me
-I'm a passionate Software Engineer in the making, focusing on back-end development with Java. With a solid foundation in Java and frameworks like Spring Boot, I'm on a journey to get my first job working with Java and building innovative solutions.
+I'm a future Java developer. With a solid foundation in Java and frameworks like Spring Boot, I'm on a journey to get my first job working with Java and trying to help people around me with my knowledge.
 
-- 🌱 I’m currently learning **Spring Boot** and **New technologies**
-- 👨‍💻 I’m working on an eCommerce project with a some friends, I'm also working on personal projects ([look my repositories](https://github.com/nszandrew?tab=repositories)).
-- 💬 Ask me about **Java**, **Spring Boot**, **SQL**, and **Other things in the Java Universe**
-- 📫 How to reach me: [EMAIL](nszandrew10@gmail.com)
+- 🌱 I'm currently learning **new technologies** and delving deeper into **Spring Boot** every day
+- 👨‍💻 I'm working freelance for a physiotherapist clinic, I'm also working on personal projects, check out my repository ([look my repositories](https://github.com/nszandrew?tab=repositories)).
+- 💬 Ask me about **Java**, **Spring Boot** and **Other things in the Java Universe**
+- 📫 How to reach me: [EMAIL](nszandrew10@gmail.com) , [Linkedin](https://www.linkedin.com/in/nszandrew/)
 
 ## 🛠️ Skills & Tools
 
@@ -20,9 +20,7 @@ I'm a passionate Software Engineer in the making, focusing on back-end developme
 
 ## 📚 Currently Learning
 - **AWS Cloud**: Exploring cloud solutions and services to enhance my development projects.
-- **Advanced Java**: Deep diving into advanced concepts and best practices.
-- **Spring Boot**: Enhancing my skills in creating robust and scalable applications.
-- **Docker**: Learning containerization to improve deployment and development workflows.
+- **Frameworks and New Technologies**: Deep diving into advanced concepts and best practices with a new softwares.
  
 
 ## 🌐 Connect with Me
@@ -44,9 +42,9 @@ Description: AutoClicker using a JNativeHook library
 Description: All old and new projects.
 
 ## 🎯 Goals
-- 📈 Secure a Software Engineering position by the end of the year.
+- 📈 Secure a Java Developer position by the end of the year.
 - 🌍 Share knowledge and help others.
 - 📖 Keep learning and growing in the tech industry.
 
 ## 🌟 Fun Fact
-I can't relax without making money, but I find peace when I start coding or also playing games.
+I study several hours a day, and I know that in the end it will all be worth it
