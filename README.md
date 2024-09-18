@@ -6,7 +6,7 @@ I'm a future Java developer. With a solid foundation in Java and frameworks like
 - 🌱 I'm currently learning **new technologies** and delving deeper into **Spring Boot** every day
 - 👨‍💻 I'm working freelance for a physiotherapist clinic, I'm also working on personal projects, check out my repository ([look my repositories](https://github.com/nszandrew?tab=repositories)).
 - 💬 Ask me about **Java**, **Spring Boot** and **Other things in the Java Universe**
-- 📫 How to reach me: [EMAIL](nszandrew10@gmail.com) , [Linkedin](https://www.linkedin.com/in/nszandrew/)
+- 📫 How to reach me: [EMAIL](nszandrew10@gmail.com) , [Linkedin](https://www.linkedin.com/in/nszandrew/) , [Site](https://www.nszandrew.com.br/)
 
 ## 🛠️ Skills & Tools
 
@@ -29,8 +29,8 @@ I'm a future Java developer. With a solid foundation in Java and frameworks like
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nszandrew)
 
 ## 💼 Projects
-### [eCommerce](https://github.com/nszandrew/ecommerce-backend)
-Description: A self-made eCommerce project, using many new things that I learned, and I'm still developing it.
+### [WebSockets](https://github.com/nszandrew/whatsapp-web-socket)
+Description: Simple WebSocket communication between two users with Redis, MongoDB and JavaScript, HTML and CSS in frontend.
 
 ### [Cars Prices](https://github.com/nszandrew/TabelaFIPE_API).
 Description: Project to query the Fipe Table of vehicles (cars, motorcycles, and trucks) via API. This project allows you to get information about vehicle prices based on data provided by the Fipe Table.
