@@ -1,11 +1,11 @@
-# 🌌 Welcome to my Github Universe!
+# 🌌 Welcome to my Github!
 
 ## 🚀 About Me
-I'm a passionate Java Developer with a strong foundation in Java and a growing expertise in frameworks like Spring Boot. I am dedicated to mastering my craft and sharing knowledge, continuously working to expand my skills while helping others along the way.
+I'm a 20-year-old Java Developer currently working at PowerKR, a company that helps other businesses set goals, manage meetings, measure team performance, and foster team engagement. I’m responsible for both legacy code and the V2 version of our projects—bridging the gap between old and new technology solutions.
 
-- 🌱 Always Learning: I'm diving deeper into Spring Boot and exploring cutting-edge technologies to stay ahead in the fast-evolving tech landscape.
-- 👨‍💻 Freelancing and Personal Projects: Currently, I’m freelancing for a physiotherapist clinic, developing solutions that directly impact patient care. I’m also engaged in various personal projects, which you can explore here.
-- 💬 Let’s Talk Java: Whether it's about Java, Spring Boot, or anything else within the Java ecosystem, I’m happy to chat and share insights.
+- 🏆 **Ambition:** My ultimate goal is to become a Software Engineer and create my own company.
+- 🌱 **Always Learning:** I have a strong foundation in Java and I’m diving deeper into frameworks like Spring Boot. I’m also exploring Microservices, Linux, Cloud, and other cutting-edge tools to stay ahead in an ever-evolving tech world.
+- 💬 **Let’s Talk Java:** Whether it’s legacy maintenance or modern solutions, I’m happy to discuss anything related to Java, Spring Boot, or software development best practices.
 
 
 ## 🛠️ Skills & Tools
@@ -14,8 +14,9 @@ I'm a passionate Java Developer with a strong foundation in Java and a growing e
 
 
 ## 📚 Currently Learning
-- **Cloud**: Exploring cloud solutions and services to enhance my development projects.
-- **Frameworks and New Technologies**: Deep diving into advanced concepts and best practices with a new softwares.
+- **Cloud:** Delving into cloud services and solutions (e.g., Digital Ocean, AWS) to enhance and scale my projects.
+- **Infrastructure:** Docker, Servers, AWS, Linux.
+- **Java World:** Microservices, Performance, new Frameworks.
  
 
 ## 🌐 Connect with Me
@@ -27,22 +28,23 @@ I'm a passionate Java Developer with a strong foundation in Java and a growing e
 
 
 ## 💼 Projects
-### [WebSockets](https://github.com/nszandrew/whatsapp-web-socket)
-Description: Simple WebSocket communication between two users with Redis, MongoDB and JavaScript, HTML and CSS in frontend.
 
 ### [Bank Microservices](https://github.com/nszandrew/bank-micro-services-spring-boot).
-Description: Bank microservices.
+**Description:** A microservices-oriented project focused on banking operations..
 
-### [nszAutoClicker](https://github.com/nszandrew/nszAutoClicker)
-Description: AutoClicker using a JNativeHook library
+### [WebSockets](https://github.com/nszandrew/whatsapp-web-socket)
+**Description:** Simple communication between two users using Redis, MongoDB, and a frontend with JavaScript, HTML, CSS.
 
 ### [API Physiotherapist](https://github.com/nszandrew/api-fisioterapeuta).
-Description: API by my freelance.
+**Description:** API using best pratices, docker, architecture.
+
+### [nszAutoClicker](https://github.com/nszandrew/nszAutoClicker)
+**Description:** An AutoClicker built with JNativeHook.
 
 ## 🎯 Goals
-- 📈 Secure a Java Developer position by the end of the year.
-- 🌍 Share knowledge and help others.
-- 📖 Keep learning and growing in the tech industry.
+- 📈 Secure a prominent Java Developer position or transition to a Software Engineer role in a global environment.
+- 🌍 Contribute knowledge, help others, and guide newcomers in the Java ecosystem.
+- 📖 Maintain Growth: Keep innovating and refining my skills in both legacy and modern tech stacks.
 
 ## 🌟 Fun Fact
-I study several hours a day, and I know that in the end it will all be worth it
+I study several hours a day, constantly pushing my limits to ensure that every line of code I write is one step closer to my dream career. The journey might be long, but I truly believe it’s worth every second!
